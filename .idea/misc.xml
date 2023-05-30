@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/College/Kuliah/SEMESTER 3/pemrograman mobile/SNotes2/app/src/main/res/drawable/shape_bg_fragment.xml" value="0.2075" />
+        <entry key="..\:/College/Kuliah/SEMESTER 3/pemrograman mobile/SNotes2/app/src/main/res/drawable/shape_rectangle_first.xml" value="0.3175" />
+        <entry key="..\:/College/Kuliah/SEMESTER 3/pemrograman mobile/SNotes2/app/src/main/res/drawable/shape_rectangle_second.xml" value="0.3175" />
+        <entry key="..\:/College/Kuliah/SEMESTER 3/pemrograman mobile/SNotes2/app/src/main/res/layout/activity_add_notes.xml" value="0.2390625" />
+        <entry key="..\:/College/Kuliah/SEMESTER 3/pemrograman mobile/SNotes2/app/src/main/res/layout/activity_detail_notes.xml" value="0.264" />
+        <entry key="..\:/College/Kuliah/SEMESTER 3/pemrograman mobile/SNotes2/app/src/main/res/layout/activity_edit_profile.xml" value="0.264" />
+        <entry key="..\:/College/Kuliah/SEMESTER 3/pemrograman mobile/SNotes2/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/College/Kuliah/SEMESTER 3/pemrograman mobile/SNotes2/app/src/main/res/layout/activity_log_in.xml" value="0.2" />
+        <entry key="..\:/College/Kuliah/SEMESTER 3/pemrograman mobile/SNotes2/app/src/main/res/layout/activity_onboarding_one.xml" value="0.3515625" />
+        <entry key="..\:/College/Kuliah/SEMESTER 3/pemrograman mobile/SNotes2/app/src/main/res/layout/activity_onboarding_three.xml" value="0.3515625" />
+        <entry key="..\:/College/Kuliah/SEMESTER 3/pemrograman mobile/SNotes2/app/src/main/res/layout/activity_onboarding_two.xml" value="0.3515625" />
+        <entry key="..\:/College/Kuliah/SEMESTER 3/pemrograman mobile/SNotes2/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/College/Kuliah/SEMESTER 3/pemrograman mobile/SNotes2/app/src/main/res/layout/activity_register_photoupload.xml" value="0.3515625" />
+        <entry key="..\:/College/Kuliah/SEMESTER 3/pemrograman mobile/SNotes2/app/src/main/res/layout/activity_splash_screen.xml" value="0.33" />
+        <entry key="..\:/College/Kuliah/SEMESTER 3/pemrograman mobile/SNotes2/app/src/main/res/layout/fragment_dashboard.xml" value="0.264" />
+        <entry key="..\:/College/Kuliah/SEMESTER 3/pemrograman mobile/SNotes2/app/src/main/res/layout/fragment_setting.xml" value="0.3515625" />
+        <entry key="..\:/College/Kuliah/SEMESTER 3/pemrograman mobile/SNotes2/app/src/main/res/layout/note_model.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

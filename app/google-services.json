@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "229620505060",
+    "firebase_url": "https://snotes-943bb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "snotes-943bb",
+    "storage_bucket": "snotes-943bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229620505060:android:5bd01bd6c037a2c2d40ff1",
+        "android_client_info": {
+          "package_name": "com.hiworld.snotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229620505060-8lr4aijfip6niog9d9ct18n9pjb9mvbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAblCEx0WRUDg2Dz0FE8RRKO5BUxj4eRKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229620505060-8lr4aijfip6niog9d9ct18n9pjb9mvbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

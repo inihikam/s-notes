@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.hiworld.snotes">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <uses-permission-sdk-23 android:name="android.permission.INTERNET" />
+    <uses-permission-sdk-23 android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SNotes.noActionBar"
+        tools:targetApi="31">
+        <activity
+            android:name=".home.AddNotesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DetailNotesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".home.HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".onboarding.OnboardingOneActivity"
+            android:exported="false" />
+        <activity
+            android:name=".onboarding.OnboardingTwoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".onboarding.OnboardingThreeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".log.login.LogInActivity"
+            android:exported="false" />
+        <activity
+            android:name=".log.register.RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".log.register.RegisterPhotoscreenActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SplashScreenActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
